@@ -10,7 +10,7 @@ Work well with [TextLayer module](https://github.com/awt2542/textLayer-for-Frame
 ## Installation
 1. Download the TextGradient.coffee file
 2. Create a framer project and drop TextGradient.coffee inside the /modules folder
-Add {TextGradient} = require 'TextGradient' at the top of your document (case-sensitive).
+3. Add {TextGradient} = require 'TextGradient' at the top of your document (case-sensitive).
 
 
 ----
