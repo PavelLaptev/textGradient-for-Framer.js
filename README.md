@@ -48,3 +48,5 @@ gradientA = TextGradient
 ---
 
 ## Short video
+
+[![ScreenShot](https://dl.dropboxusercontent.com/s/tinameggqm7h50g/video-preview.jpg?dl=0)](https://youtu.be/8GI_T9MoQqs)
