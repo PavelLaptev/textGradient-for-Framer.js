@@ -3,7 +3,7 @@
 # TextGradient
 Module for Framer Studio. Module adding gradient for text. Also you can make simple animation "from-to".
 
-Work well with [TextLayer module](https://github.com/awt2542/textLayer-for-Framer).
+Work well with [TextLayer module](https://github.com/awt2542/textLayer-for-Framer) and safari browser.
 
 
 
