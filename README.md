@@ -32,7 +32,7 @@ gradientA = TextGradient
 	gradientSize: "100% 100%"
 	#if you want to animate the gradient, write animation name
 	animationName: "gradientMoving"
-	#then you can customeze animation parameters
+	#then you can customize animation parameters
 	animationDirection: "alternate"
 	animationEase: "ease-in-out"
 	animationDelay: 0
